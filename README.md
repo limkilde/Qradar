@@ -1,2 +1,2 @@
 # Qradar
-For test with Qrada API
+For test with Qrada API integration
